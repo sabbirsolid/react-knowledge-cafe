@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { useState } from "react";
-
+import Blog from "../Blog/Blog.jsx";
 const Blogs = () => {
     const [blogs, setBlogs] = useState([]);
     useEffect(() => {
@@ -11,8 +11,8 @@ const Blogs = () => {
     return (
         <div>
             {
-                blogs.map(blog =>  <h1 key={blog.id} className="font-bold text-3xl " >Name:{blog.author}</h1>)
-}
+                blogs.map(blog => <Blog key={blog.id} blog={blog}></Blog>)
+            }
         </div>
     );
 };
