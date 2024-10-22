@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/m6ZrvhD/1.jpg",
+      "title": "The Lost Chronicles",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co.com/2K0S3mZ/blue-circle-with-white-user-78370-4707.jpg",
+      "posted_date": "2024-10-01",
+      "reading_time": "8",
+      "hashtags": ["#adventure", "#fantasy", "#fiction"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/YQKzfDR/2.jpg",
+      "title": "Echoes of Tomorrow",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co.com/2K0S3mZ/blue-circle-with-white-user-78370-4707.jpg",
+      "posted_date": "2024-09-22",
+      "reading_time": "12",
+      "hashtags": ["#sci-fi", "#dystopian", "#future"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/qNbRft4/3.jpg",
+      "title": "Beneath the Surface",
+      "author": "Michael Turner",
+      "author_img": "https://i.ibb.co.com/2K0S3mZ/blue-circle-with-white-user-78370-4707.jpg",
+      "posted_date": "2024-10-10",
+      "reading_time": "6",
+      "hashtags": ["#mystery", "#thriller", "#crime"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/FDJ7m0N/4.jpg",
+      "title": "Whispers in the Wind",
+      "author": "Samantha Green",
+      "author_img": "https://i.ibb.co.com/2K0S3mZ/blue-circle-with-white-user-78370-4707.jpg",
+      "posted_date": "2024-09-30",
+      "reading_time": "10",
+      "hashtags": ["#romance", "#drama", "#love"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/3yGbB0h/5.jpg",
+      "title": "The Infinite Path",
+      "author": "David Wright",
+      "author_img": "https://i.ibb.co.com/2K0S3mZ/blue-circle-with-white-user-78370-4707.jpg",
+      "posted_date": "2024-10-15",
+      "reading_time": "9",
+      "hashtags": ["#philosophy", "#selfhelp", "#mindfulness"]
+    }
+  ]
+  
